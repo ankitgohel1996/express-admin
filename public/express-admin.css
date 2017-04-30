@@ -15,6 +15,7 @@
 /*hide chosen select by default*/
 .chosen-select { display: none; }
 
+.navbar { background-color: red; }
 /*fix table size and content*/
 .x-table { table-layout: fixed; }
 .x-table thead th,
